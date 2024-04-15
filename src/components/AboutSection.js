@@ -41,7 +41,7 @@ function AboutSection() {
                     </p> */}
                     <button className="btn">
                         <a
-                            href="https://drive.google.com/file/d/14uxEzjfbVy5CXxZaWjX6YHcMxWlij30u/view?usp=sharing"
+                            href=""
                             target="_blank"
                             rel="noreferrer"
                         >

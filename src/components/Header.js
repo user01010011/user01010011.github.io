@@ -23,7 +23,7 @@ function Header(props) {
             <div id="locationIcon">
                 <ImEarth size={30} />
                 <h5>
-                    &nbsp;<b> Orange County, CA</b>
+                    &nbsp;<b>Orange County, CA</b>
                 </h5>
             </div>
             <div id="iconContainer">

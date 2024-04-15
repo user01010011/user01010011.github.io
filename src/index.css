@@ -267,8 +267,8 @@ a {
   box-shadow: 0 0 3px #ECF9FF;
 }
 
-.middle:hover {
-}
+/* .middle:hover {
+} */
 
 .middle {
   transition: 1s ease;

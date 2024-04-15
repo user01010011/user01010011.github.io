@@ -50,7 +50,7 @@ const projectsList = [
     {
         id: 3,
         title: "Spacetagram",
-        image: "",
+        image: require('../assets/images/Spacetagram.png'),
         alt_text: "Screenshot of Spacetagram app",
         description: ".",
         date_completed: "2023",
